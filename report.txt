@@ -1,0 +1,3 @@
+A-001. Guest:guest@email.com. Confirmed reservation at 2019-06-08 23:06:45 UTC
+A-001. Guest:guest@email.com. Modified reservation at 2019-06-08 23:40:02 UTC
+A-001. Guest:guest@email.com. Confirmed reservation at 2019-06-08 23:06:45 UTC

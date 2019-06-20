@@ -1,0 +1,15 @@
+current directory: /home/julia/RubymineProjects/report_to_mail/vendor/bundle/ruby/2.6.0/gems/bindex-0.7.0/ext/skiptrace
+/home/julia/.rvm/rubies/ruby-2.6.3/bin/ruby -I /home/julia/.rvm/rubies/ruby-2.6.3/lib/ruby/2.6.0 -r ./siteconf20190619-5358-1xiz9v9.rb extconf.rb
+creating Makefile
+
+current directory: /home/julia/RubymineProjects/report_to_mail/vendor/bundle/ruby/2.6.0/gems/bindex-0.7.0/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /home/julia/RubymineProjects/report_to_mail/vendor/bundle/ruby/2.6.0/gems/bindex-0.7.0/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/cruby.so
+
+current directory: /home/julia/RubymineProjects/report_to_mail/vendor/bundle/ruby/2.6.0/gems/bindex-0.7.0/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -m 0755 cruby.so ./.gem.20190619-5358-156ddqe/skiptrace
